@@ -1,6 +1,6 @@
 # AtlFoodFinder
 Public repository to showcase the private AtlFoodFinder team project. <br/>
-Team project website (includes demo video): https://atlfoodfind.github.io/atlFoodFinder/index.html
+Team project website (includes demo video): https://atlfoodfind.github.io/atlFoodFinder/video.html
 
 ## Description
 AtlFoodFinder is a dynamic full stack web application that helps users locate ideal dining options in Atlanta,GA and surrounding areas. The web app integrates google maps to provide the best map experience as well as the most accurate and up to date information regarding all dining options. Users are able to use various filters such as cuisine, resteraunt type, and ratings. It also allows users users to search for specific dietery restrictions making it an ideal and versatile tool to find the ideal dining option.
